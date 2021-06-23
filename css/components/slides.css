@@ -1,0 +1,18 @@
+.remelis {
+  padding: 5px;
+  border: 3px solid #fff;
+  border-radius: 50px;
+  overflow: hidden;
+}
+.photo {
+  display: flex;
+  gap: 5px;
+}
+.photo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
